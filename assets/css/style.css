@@ -213,7 +213,7 @@ footer p{
 
 #showcase2 {
     background-image: url("https://caglarpanus.github.io/assets/images/background.png");
-    height: 810px;
+    height: 812px;
     margin: 0;
     padding: 0;
     
@@ -224,6 +224,7 @@ footer p{
     width: 720px;
     height: 730px;
     border: 1px solid #cccccc;
+    border-bottom: 0px;
     background: #ffffff;
     margin-left: 200px;
     margin-top: 40px;
