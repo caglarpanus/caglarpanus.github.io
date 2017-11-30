@@ -79,7 +79,7 @@ header a:hover{color: #4aaaa5;
 /* Showcase */
 
 #showcase{
-    background-image: url("https://caglarpanus.github.io/assets/images/background.png");
+    background-image: url("../images/background.png");
     height: 450px;
     margin: 0;
     padding: 40px;
@@ -217,7 +217,7 @@ footer p{
 /* Portfolio */
 
 #showcase2 {
-    background-image: url("https://caglarpanus.github.io/assets/images/background.png");
+    background-image: url("../images/background.png");
     height: 812px;
     margin: 0;
     padding: 0;
